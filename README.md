@@ -17,6 +17,7 @@ A simple BMI Calculator that takes a user's height and weight as input and calcu
 - Input Validation
 - Event Listeners
 - JavaScript Functions
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51f47ac7-0af4-4a63-9ba2-db9dc24f8306" />
 
 ---
 
@@ -28,6 +29,7 @@ A project that changes the webpage's background color when a user clicks on diff
 - Click Events
 - Dynamic CSS Manipulation
 - Event Objects
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1ba24f0c-72ca-49f3-9e64-a48b389f3d2b" />
 
 ---
 
@@ -38,6 +40,7 @@ A real-time digital clock built using JavaScript's Date object.
 - Date Object
 - setInterval()
 - Real-time DOM Updates
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4922bf8-c563-4b40-989a-a6f1e38e6c1d" />
 
 ---
 
@@ -80,7 +83,7 @@ More JavaScript projects will be added as I continue learning, including:
 
 ## 📬 Connect With Me
 
-**LinkedIn:** *(Add your LinkedIn profile link)*
+**LinkedIn:** *www.linkedin.com/in/lucky-rikhari-97a667395*
 
 **GitHub:** https://github.com/luckyrikhari13-cell
 
