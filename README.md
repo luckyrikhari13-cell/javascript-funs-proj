@@ -1,15 +1,15 @@
 # 🚀 JavaScript Mini Projects
 
-This repository contains a collection of beginner-friendly JavaScript projects that I built while learning the fundamentals of JavaScript, HTML, and CSS.
+This repository contains a collection of beginner-friendly JavaScript projects that I built while learning the fundamentals of JavaScript, HTML, CSS, and the DOM.
 
-These projects helped me strengthen my understanding of DOM Manipulation, Event Handling, Form Validation, and working with the JavaScript Date API.
+My goal with these projects is not just to complete them, but to understand how JavaScript works by applying concepts in real-world scenarios.
 
 ---
 
 ## 📂 Projects
 
 ### 🧮 BMI Calculator
-A simple BMI Calculator that takes a user's height and weight as input and calculates the Body Mass Index.
+Calculates a user's Body Mass Index (BMI) based on height and weight inputs.
 
 **Concepts Practiced**
 - DOM Manipulation
@@ -21,13 +21,13 @@ A simple BMI Calculator that takes a user's height and weight as input and calcu
 ---
 
 ### 🎨 Color Scheme Switcher
-A project that changes the webpage's background color when a user clicks on different color buttons.
+Changes the webpage's background color based on the selected color.
 
 **Concepts Practiced**
 - querySelectorAll()
-- Click Events
-- Dynamic CSS Manipulation
-- Event Objects
+- Event Handling
+- Dynamic Styling
+- DOM Manipulation
 
 ---
 
@@ -41,6 +41,43 @@ A real-time digital clock built using JavaScript's Date object.
 
 ---
 
+### ⌨️ Keyboard Checker
+Displays information about the key pressed by the user.
+
+**Concepts Practiced**
+- Keyboard Events
+- Event Object
+- DOM Manipulation
+
+---
+
+### 🎲 Random Number Generator
+Generates random numbers using JavaScript.
+
+**Concepts Practiced**
+- Math.random()
+- Math.floor()
+- Functions
+- DOM Updates
+
+---
+
+### 🔐 Random Password Generator
+Generates random passwords and allows users to copy them to the clipboard.
+
+**Concepts Practiced**
+- Math.random()
+- String Manipulation
+- Arrays
+- Functions
+- Loops
+- DOM Manipulation
+- Event Listeners
+- Clipboard API
+- Promises (`.then()` & `.catch()`)
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -51,30 +88,22 @@ A real-time digital clock built using JavaScript's Date object.
 
 ## 🎯 What I Learned
 
-Through these mini projects, I gained hands-on experience with:
+Working on these mini projects helped me practice and understand:
 
 - DOM Manipulation
 - Event Handling
+- JavaScript Functions
+- Arrays & Strings
+- Loops & Conditional Statements
 - Form Validation
 - Dynamic Styling
-- JavaScript Date & Time
+- Date & Time API
+- Math Object
+- Clipboard API
+- Promises
 - Writing Cleaner JavaScript Code
 
-These projects are part of my journey to become a Full Stack Developer and improve my problem-solving skills through hands-on practice.
-
----
-
-## 🚀 Future Projects
-
-More JavaScript projects will be added as I continue learning, including:
-
-- To-Do App
-- Calculator
-- Weather App
-- Password Generator
-- Quiz App
-- API Projects
-- React Projects
+Every project taught me something new and reinforced concepts through hands-on practice.
 
 ---
 
@@ -86,4 +115,4 @@ More JavaScript projects will be added as I continue learning, including:
 
 ---
 
-⭐ If you like these projects, feel free to star the repository and share your feedback!
+⭐ Feel free to explore the projects, share your feedback, or suggest improvements. Every project in this repository represents a step forward in my JavaScript learning journey.
