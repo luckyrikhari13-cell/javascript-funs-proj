@@ -109,7 +109,7 @@ Every project taught me something new and reinforced concepts through hands-on p
 
 ## 📬 Connect With Me
 
-**LinkedIn:** *(Add your LinkedIn profile link)*
+**LinkedIn:** *www.linkedin.com/in/lucky-rikhari-97a667395*
 
 **GitHub:** https://github.com/luckyrikhari13-cell
 
