@@ -1,0 +1,91 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#002339;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.main-container{
+    width:90%;
+    max-width:500px;
+}
+
+.header-container{
+    margin-bottom:35px;
+}
+
+.top-head{
+    font-size:2.7rem;
+    font-weight:600;
+    color:#fff;
+    line-height:1.2;
+}
+
+.bottom-head{
+    font-size:2.7rem;
+    font-weight:600;
+    color:#00d084;
+    display:inline-block;
+    border-bottom:4px solid #00d084;
+    padding-bottom:6px;
+    margin-top:5px;
+}
+
+.password-generater-container{
+    background:#fff;
+    height:65px;
+    border-radius:6px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 20px;
+    margin-bottom:30px;
+}
+
+#password{
+    color:#444;
+    font-size:1.1rem;
+    font-weight:500;
+}
+
+#copy-password{
+    width:24px;
+    height:24px;
+    cursor:pointer;
+}
+
+/* Button */
+
+.generate-password{
+    width:220px;
+    height:55px;
+    background:#00d084;
+    border-radius:6px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.generate-password:hover{
+    background:#00b873;
+}
+
+#click-generate{
+    color:#fff;
+    font-size:1rem;
+    font-weight:500;
+    user-select:none;
+}
